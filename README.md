@@ -4,9 +4,9 @@ Guitarist and computer science student from Varna, Bulgaria. I play gigs with a 
 
 🎧 Currently learning: **game audio**, sound design with FL Studio and FMOD
 
-## 🎸 Apps for gigging musicians
+## 🎸 An app for gigging musicians
 
-Free, open in the browser on a phone or tablet, work offline, in English and Bulgarian. Each one starts with an example gig, and then you make your own.
+Free, opens in the browser on a phone or tablet, works offline, in English and Bulgarian. It starts with an example gig, and then you make your own.
 
 | | |
 |---|---|
