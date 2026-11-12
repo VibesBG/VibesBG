@@ -10,10 +10,9 @@ Free, open in the browser on a phone or tablet, work offline, in English and Bul
 
 | | |
 |---|---|
-| **[Chords Sheet](https://vibesbg.github.io/chords-sheet/)** · [code](https://github.com/VibesBG/chords-sheet) | Chord charts for your gigs. Type songs as `G \| D \| Am  x2`, then transpose, use the capo calculator, tap a chord for its diagram, run the metronome, auto-scroll, and turn pages with a Bluetooth pedal. |
-| **[Gig Lyrics](https://vibesbg.github.io/lyrics/)** · [code](https://github.com/VibesBG/lyrics) | Big, readable lyrics for the singer, with the chorus shaded. Auto-scroll, swipe between songs, and search by any line of a song. |
+| **[Chords Sheet](https://vibesbg.github.io/chords-sheet/)** · [code](https://github.com/VibesBG/chords-sheet) | Chords and lyrics for your gigs in one app. Switch each song between **Chords** and **Lyrics**. Type chords as `G \| D \| Am  x2`, then transpose, use the capo calculator, tap a chord for its diagram, run the metronome, and auto-scroll. Lyrics come big and readable with the chorus shaded, and search finds any line. Turn pages with a Bluetooth pedal. |
 
-Your gigs stay on your own device. Tap **↗ Send** to share a gig with a bandmate as a file: chords for the guitarist, lyrics for the singer.
+Your gigs stay on your own device. Tap **↗ Send** to share a gig with a bandmate as a file.
 
 ## 🎓 University work
 
